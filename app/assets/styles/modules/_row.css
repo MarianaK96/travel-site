@@ -4,13 +4,15 @@
         margin-right: -65px;
     }
     &--gutters-large {
-        margin-right: 100px;
+        /* margin-right: 100px; */
+        margin: 0 auto;
     }
     &--gutters>div {
         padding-right: 65px;
     }
     &--gutters-large>div {
-        padding-right: 100px;
+        /* padding-right: 100px; */
+        margin: 0 auto;
     }
     &__b-margin-until-medium {
         margin-bottom: 20px;
